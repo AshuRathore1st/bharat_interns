@@ -1,6 +1,6 @@
 # Bharat-Intern-Task-1-SMS-Classifier
 
-Task-1:SMS Classifier
+Task-1 : SMS Classifier
 
 Introduction:
 In today's digital age, where instant messaging is ubiquitous, SMS spam has become a common nuisance. This challenge, however, provides an excellent learning opportunity for those entering the field of data science. This project involves building a machine learning model designed for SMS spam detection, serving as an ideal starting point for beginners in Natural Language Processing (NLP) and machine learning.
